@@ -1,24 +1,29 @@
-## Hello! I'm Isuru 👋
+## 👋 Hello, I'm Isuru
 
-I am an aspiring technologist and undergraduate student at the University of Colombo School of Computing (UCSC), focusing on backend development, cloud technologies and DevOps practices. My journey involves exploring the intersection of development and operations, while building practical solutions that matter. I'm passionate about creating efficient, scalable systems and continuously learning new technologies.
+I'm a **Trainee DevOps Engineer** and an **undergraduate at the University of Colombo School of Computing (UCSC)**, passionate about building scalable systems and automating cloud infrastructure.  
+My journey blends **software development, cloud technologies and DevOps practices**, as I continuously explore how code, infrastructure and automation come together to create reliable systems.
+
+---
 
 ### 👨‍💻 About Me
-- 🎓 Currently pursuing my Bachelor's degree at **University of Colombo School of Computing**
-- 🌱 Specializing in **Backend Development** and **DevOps**
-- 📚 Always eager to learn and explore new technologies
-- 💼 Open to collaborating on innovative projects
+- 🎓 Pursuing a **Bachelor’s degree** at **University of Colombo School of Computing (UCSC)**
+- 💼 Currently working as a **Trainee DevOps Engineer** at **INTTEQ Pvt Ltd**
+- ☁️ Exploring **AWS, Azure, Docker, Kubernetes, Terraform** and **CI/CD pipelines**
+- 💻 Experienced in **backend development** using **Node.js, Spring Boot** and **MongoDB**
+- 📚 Always eager to learn, experiment, and contribute to open-source DevOps & cloud projects
+
+---
 
 ### 🛠 Tech Stack
-#### Used Languages
-<img src="https://skillicons.dev/icons?i=c,html,css,javascript,mysql,php,java,python,r" />
 
-#### Editors
-<img src="https://skillicons.dev/icons?i=vscode,idea" />
+#### 🌐 Backend & Development
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,python,php,mysql" />
 
-### 📲 Connect With Me
-<a href="mailto:isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+#### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,grafana,prometheus" />
+
+#### 💻 Tools & Environments
+<img src="https://skillicons.dev/icons?i=vscode,idea,linux,bash,git" />
 
 ---
 
@@ -33,4 +38,13 @@ I am an aspiring technologist and undergraduate student at the University of Col
 
 ---
 
+### 📲 Connect With Me
+
+<a href="mailto:isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+
+---
+
 ![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
+

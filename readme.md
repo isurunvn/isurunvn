@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Isuru
 
 I'm a **Trainee DevOps Engineer** and an **undergraduate at the University of Colombo School of Computing (UCSC)**, passionate about building scalable systems and automating cloud infrastructure.  
-My journey blends **software development, cloud technologies and DevOps practices**, as I continuously explore how code, infrastructure and automation come together to create reliable systems.
+My journey blends **software development, cloud technologies and DevOps practices** as I continuously explore how code, infrastructure and automation come together to create reliable systems.
 
 ---
 
@@ -10,7 +10,7 @@ My journey blends **software development, cloud technologies and DevOps practice
 - 💼 Currently working as a **Trainee DevOps Engineer** at **INTTEQ Pvt Ltd**
 - ☁️ Exploring **AWS, Azure, Docker, Kubernetes, Terraform** and **CI/CD pipelines**
 - 💻 Experienced in **backend development** using **Node.js, Spring Boot** and **MongoDB**
-- 📚 Always eager to learn, experiment, and contribute to open-source DevOps & cloud projects
+- 📚 Always eager to learn, experiment and contribute to open-source DevOps & cloud projects
 
 ---
 
@@ -38,13 +38,12 @@ My journey blends **software development, cloud technologies and DevOps practice
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
+
+---
+
 ### 📲 Connect With Me
 
 <a href="mailto:isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
-

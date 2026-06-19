@@ -2,9 +2,8 @@
 
 **Associate DevOps Engineer | Cloud & Infrastructure Engineer**
 
-I'm passionate about designing scalable cloud infrastructure, automating deployments, and building reliable platforms. My primary focus is on AWS, Azure, Kubernetes, Terraform, CI/CD, and observability.
+I'm passionate about designing scalable cloud infrastructure, automating deployments, and building reliable platforms. My primary focus is on AWS, Azure, Kubernetes, Terraform, CI/CD, and observability. Cureently working as an Assocaite DevOps Engineer at INTTEQ Pvt Ltd, focusing on cloud infrastructure, container platforms, automation and monitoring solutions across AWS, Azure and GCP environments.
 
-Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd**, focusing on cloud infrastructure, container platforms, automation, and monitoring solutions across AWS and Azure environments.
 ---
 
 ## 🚀 About Me
@@ -23,7 +22,7 @@ Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd**, focusin
 
 ### Cloud Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
 </p>
 
 ### DevOps & Infrastructure
@@ -65,7 +64,6 @@ Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd**, focusin
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunvn&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">

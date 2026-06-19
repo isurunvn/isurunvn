@@ -1,49 +1,98 @@
-## 👋 Hello, I'm Isuru
+# Hi, I'm Isuru Naveen Liyanaarachchi 👋
 
-I'm a **Trainee DevOps Engineer** and an **undergraduate at the University of Colombo School of Computing (UCSC)**, passionate about building scalable systems and automating cloud infrastructure.  
-My journey blends **software development, cloud technologies and DevOps practices** as I continuously explore how code, infrastructure and automation come together to create reliable systems.
+**Associate DevOps Engineer | Cloud & Infrastructure Engineer**
 
----
+I'm passionate about designing scalable cloud infrastructure, automating deployments, and building reliable platforms. My primary focus is on AWS, Azure, Kubernetes, Terraform, CI/CD, and observability.
 
-### 👨‍💻 About Me
-- 🎓 Pursuing a **Bachelor’s degree** at **University of Colombo School of Computing (UCSC)**
-- 💼 Currently working as a **Trainee DevOps Engineer** at **INTTEQ Pvt Ltd**
-- ☁️ Exploring **AWS, Azure, Docker, Kubernetes, Terraform** and **CI/CD pipelines**
-- 💻 Experienced in **backend development** using **Node.js, Spring Boot** and **MongoDB**
-- 📚 Always eager to learn, experiment and contribute to open-source DevOps & cloud projects
+Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd** while completing my **BSc in Information Systems** at the **University of Colombo School of Computing (UCSC)**.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 About Me
 
-#### 🌐 Backend & Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mongodb,python,php,mysql" />
-
-#### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,githubactions,grafana,prometheus" />
-
-#### 💻 Tools & Environments
-<img src="https://skillicons.dev/icons?i=vscode,idea,linux,bash,git" />
-
----
-
-### 📊 GitHub Statistics
-
-[![Isuru's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=react-dark)](https://github.com/isurunvn/github-readme-activity-graph)
-
-<div align="center">
-  <img width=390 height=250 align=left src="https://github-readme-stats.vercel.app/api?username=isurunvn&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <img width=390 height=250 align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunvn&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+- ☁️ Building and managing cloud infrastructure on AWS and Azure
+- 🐳 Containerizing applications using Docker
+- ☸️ Deploying and managing workloads on Kubernetes (AKS)
+- 🏗️ Automating infrastructure with Terraform
+- 🔄 Building CI/CD pipelines using GitHub Actions and Jenkins
+- 📊 Working with Grafana, Loki, CloudWatch, and Azure Monitor
+- 🔐 Interested in Cloud Security, DevOps, Platform Engineering, and Observability
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=isurunvn&style=flat-square)
+## 🛠️ Tech Stack
+
+### Cloud Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+### DevOps & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,jenkins" />
+</p>
+
+### Monitoring & Observability
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,python,postgres,mysql" />
+</p>
+
+### Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,vscode" />
+</p>
 
 ---
 
-### 📲 Connect With Me
+## 📌 Areas of Interest
 
-<a href="mailto:isurunaveen27@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://instagram.com/isuru_nvn_" target="blank"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+- Cloud Infrastructure
+- Kubernetes & Container Orchestration
+- Infrastructure as Code (Terraform)
+- CI/CD Automation
+- Platform Engineering
+- Observability & Monitoring
+- Cloud Security
+- DevOps Practices
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=isurunvn&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isurunvn&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=isurunvn&theme=github-dark" />
+</p>
+
+---
+
+## 🎓 Education
+
+**University of Colombo School of Computing (UCSC)**  
+BSc in Information Systems
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:isurunaveen27@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/isuru-n-liyanaarachchi/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+> Building reliable cloud infrastructure through automation, scalability, and continuous improvement.

@@ -4,8 +4,7 @@
 
 I'm passionate about designing scalable cloud infrastructure, automating deployments, and building reliable platforms. My primary focus is on AWS, Azure, Kubernetes, Terraform, CI/CD, and observability.
 
-Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd** while completing my **BSc in Information Systems** at the **University of Colombo School of Computing (UCSC)**.
-
+Currently working as an **Associate DevOps Engineer at INTTEQ Pvt Ltd**, focusing on cloud infrastructure, container platforms, automation, and monitoring solutions across AWS and Azure environments.
 ---
 
 ## 🚀 About Me

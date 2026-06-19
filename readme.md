@@ -35,9 +35,9 @@ I'm passionate about designing scalable cloud infrastructure, automating deploym
   <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
 
-### Backend Development
+### Application Development
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mongodb,python,postgres,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,mongodb,postgres,mysql,python,bash" />
 </p>
 
 ### Tools & Environment
